@@ -1,0 +1,22 @@
+.card-services-title h1 {
+  color: #081323;
+  font-size: 27px;
+  font-weight: 600;
+  margin: 0px 0px 0px 0px;
+}
+
+.card-services-title p {
+  color: #828282;
+  font-size: 17px;
+  margin: 10px 0px 10px 0px;
+  font-weight: 600;
+}
+
+.card-services {
+  display: flex;
+  align-items: center;
+}
+
+.card-services-title {
+  margin-left: 10px;
+}

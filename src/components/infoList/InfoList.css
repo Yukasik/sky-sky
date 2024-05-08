@@ -1,0 +1,19 @@
+.info-list-item {
+  color: #c4c4c4;
+  margin: 10px 0px;
+  padding: 0;
+}
+
+.info-list-item span {
+  font-size: 18px;
+  color: #000000;
+  cursor: pointer;
+}
+
+.info-list-items {
+  padding: 0px 18px;
+}
+
+.info-list-text p {
+  color: #616161;
+}

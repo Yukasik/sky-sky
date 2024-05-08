@@ -1,0 +1,22 @@
+.counter button {
+  background-color: #ffffff;
+  border: none;
+  color: #000000;
+  font-size: 25px;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+.counter p {
+  color: #000000;
+  font-size: 20px;
+}
+
+.counter {
+  width: 175px;
+  height: 65px;
+  border: 1px solid #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

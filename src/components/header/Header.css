@@ -1,0 +1,46 @@
+.header {
+  height: 106px;
+  width: 100%;
+  border-bottom: 1px solid #ffffff;
+  position: relative;
+}
+
+.header-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 106px;
+}
+
+.header-menu-icons {
+  position: absolute;
+  right: 100px;
+  display: flex;
+}
+
+.header-menu-icon {
+  margin: 0px 16px;
+  cursor: pointer;
+}
+
+.header-menu-item {
+  list-style-type: none;
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.header-item-link {
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+
+.header-item-link:hover {
+  color: #eb4c56;
+}
+
+.header-menu-items {
+  display: flex;
+  gap: 69px;
+  margin: 0;
+}

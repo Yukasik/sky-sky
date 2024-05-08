@@ -1,0 +1,24 @@
+.all {
+  height: 1000px;
+}
+
+.all-wrap {
+  text-align: center;
+}
+
+.all-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1300px;
+  height: 100%;
+  flex-wrap: wrap;
+  gap: 32px;
+  margin-top: 43px;
+}
+
+.all-cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

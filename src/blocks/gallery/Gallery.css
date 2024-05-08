@@ -1,0 +1,29 @@
+.gallery {
+  height: 1009px;
+  background-color: #f8f8f8;
+}
+
+.gallery-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 29px;
+  padding-top: 50px;
+}
+
+.gallery-block-left h1 {
+  color: #1b1a1f;
+  font-size: 55px;
+  font-weight: 600;
+  padding-bottom: 46px;
+}
+
+.gallery-block-left-img {
+  cursor: pointer;
+}
+
+.gallery-block-right-img {
+  display: block;
+  cursor: pointer;
+  margin-top: 41px;
+}

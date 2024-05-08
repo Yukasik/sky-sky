@@ -1,0 +1,16 @@
+.input input {
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  position: absolute;
+  transform: translateY(10%);
+  right: 40px;
+  transition: left 0.5s;
+  padding-left: 20px;
+  height: 25px;
+  background-color: #eb4c56;
+}
+
+.input {
+  position: relative;
+}

@@ -1,0 +1,58 @@
+.initial {
+  width: 100%;
+  height: 1080px;
+  background-image: url(../../img/home/initial/background.svg);
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.initial:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.initial-title p {
+  color: #ffffff;
+  font-size: 29px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.initial-title h1 {
+  color: #ffffff;
+  font-size: 200px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.initial-title-btn {
+  width: 204px;
+  height: 77px;
+  font-size: 21px;
+}
+
+.initial-title-btn:hover {
+  background-color: #000000;
+}
+
+.initial-wrap {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  width: 100%;
+}
+
+.initial-title {
+  text-align: center;
+}
