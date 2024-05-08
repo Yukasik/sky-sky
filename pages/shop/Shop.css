@@ -1,0 +1,67 @@
+.shop {
+  height: 1015px;
+}
+
+.shop-wrap {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  gap: 150px;
+}
+
+.shop-block-left {
+  margin-top: 120px;
+}
+
+.shop-block-right {
+  margin-top: 90px;
+}
+
+.shop-block-left-card-img {
+  width: 579px;
+  height: 817px;
+  background-color: #f6f6f6;
+}
+
+.shop-block-left-card-img-mini {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.shop-block-right-text h1 {
+  color: #111010;
+  font-size: 63px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.shop-block-right-text h2 {
+  color: #000000;
+  font-size: 30px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.shop-block-right-text p {
+  color: #616161;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 16px 0px 0px 0px;
+}
+
+.shop-block-right-button {
+  width: 221px;
+  height: 65px;
+  font-size: 20px;
+}
+
+.shop-block-right-button:hover {
+  background-color: #000000;
+}
+
+.shop-block-right-btn {
+  display: flex;
+  width: 482px;
+  justify-content: space-between;
+  margin: 45px 0px;
+}

@@ -1,0 +1,49 @@
+.about-us {
+  height: 1015px;
+  background-image: url(../../img/aboutUs/backgroundPhoto.svg);
+  background-repeat: no-repeat;
+  position: relative;
+  background-position: center;
+}
+
+.about-us-wrap {
+  display: flex;
+  align-items: center;
+  height: 80%;
+  margin-left: 364px;
+}
+
+.about-us-card {
+  width: 621px;
+  height: 352px;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-items: center;
+}
+
+.about-us-card-info {
+  padding-left: 37px;
+}
+
+.about-us-card-info h1 {
+  font-size: 42px;
+  color: #111010;
+  font-weight: 600;
+}
+
+.about-us-card-info p {
+  font-size: 17px;
+  color: #616161;
+  font-weight: 500;
+}
+
+.about-us-card-info button {
+  background-color: #111010;
+  font-size: 14px;
+  width: 157px;
+  height: 45px;
+}
+
+.about-us-card-info button:hover {
+  background-color: #eb4c56;
+}
